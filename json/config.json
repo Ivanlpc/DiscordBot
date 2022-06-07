@@ -1,0 +1,21 @@
+{
+	"token": "",
+	"rolCK":"",
+	"guildID": "",
+	"rolTwitch": "",
+	"rolAdmin":"",
+	"ganeName":"",
+	"tablaUsuarios":"",
+	"columnaIdentifier":"",
+	"DB":{
+		"host":"localhost",
+		"user":"root",
+		"password":"",
+		"database":"genesis"
+	},
+	"scripts":{
+		"nombre":[],
+		"columna":[]
+	}
+	
+}
